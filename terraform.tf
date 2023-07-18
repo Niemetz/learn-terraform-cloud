@@ -1,12 +1,12 @@
 terraform {
   required_version = "= 1.5.2"
   
-  /* cloud {
+  cloud {
     organization = "Mastering-Terraform-Cloud-JN"
     workspaces {
       name = "Hands-on-lab"
     }
-  } */
+  }
 
   required_providers {
     aws = {

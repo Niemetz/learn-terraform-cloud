@@ -25,8 +25,7 @@ https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-remote
 Objective:
 - Migrate the state to a "remote backend" in Terraform Cloud
 - Generate a Terrafrom Cloud Token.
-  This token will be expired on 8/18/23 
-  Z5JzRZGeL0M6xw.atlasv1.miaj82G4SfFDBU8S0mTg7LQ645uedkbTQuqZGOGjo8a97yYghqydpxI2m6WWWIp6auI
+
 
   To login Terrafrom Cloud?
   At the prompt, issue this commmand:
